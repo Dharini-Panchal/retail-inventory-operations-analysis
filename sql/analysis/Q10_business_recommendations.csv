@@ -1,0 +1,8 @@
+priority,business_issue,evidence,recommended_action
+High,"Frequent Stockouts","Products repeatedly reach zero inventory","Review reorder points and replenish high-demand products earlier"
+High,Overstock,"Products have high inventory compared with units sold","Reduce future purchasing and consider promotions or markdowns"
+High,"Key Revenue Products","A small group of products contributes a large share of total revenue","Prioritize availability and closely monitor inventory for these products"
+Medium,"Underperforming Stores","Store sales are below the company average","Investigate product mix, customer demand and store-level performance"
+Medium,"High-Volume Low-Revenue Products","Products have high unit sales but relatively low revenue","Review pricing, margins and promotional strategy"
+Medium,"High-Value Products","Products generate high revenue despite relatively low unit sales","Maintain availability and avoid unnecessary stockouts"
+Low,"Unusual Transactions","Some transactions have sales significantly above their category average","Investigate unusual orders and determine whether they represent one-time events or recurring demand"
