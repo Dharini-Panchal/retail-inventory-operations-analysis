@@ -1,0 +1,63 @@
+product_id,category,total_units_sold,total_sales
+P0081,Electrical,58,4812.79
+P0021,Hardware,56,6169.01
+P0054,Appliances,52,6622.08
+P0083,Electrical,50,6641.47
+P0030,Appliances,50,6793.81
+P0008,Paint,50,6371.37
+P0032,Plumbing,50,6396.49
+P0042,"Lawn & Garden",49,6353.99
+P0029,Electrical,49,6127.98
+P0008,Plumbing,49,6603.67
+P0051,"Lawn & Garden",48,6183.02
+P0095,"Building Materials",48,5685.15
+P0004,"Building Materials",48,6542.80
+P0085,Electrical,47,5551.47
+P0100,Electrical,47,6078.27
+P0047,Electrical,47,4928.32
+P0080,Electrical,47,6193.21
+P0051,Plumbing,46,5692.00
+P0055,Paint,46,6653.36
+P0035,Electrical,46,5033.98
+P0080,Plumbing,46,6666.53
+P0059,Appliances,45,5788.71
+P0026,Hardware,45,5517.02
+P0071,Hardware,45,6122.39
+P0080,Paint,45,6565.18
+P0030,"Lawn & Garden",44,5347.95
+P0049,"Building Materials",44,6646.90
+P0018,Hardware,44,6194.95
+P0059,Plumbing,43,4649.45
+P0074,Paint,43,6499.23
+P0006,Plumbing,43,4650.21
+P0100,Appliances,43,5504.03
+P0064,Electrical,43,5501.84
+P0002,"Lawn & Garden",43,6003.34
+P0002,Plumbing,42,6294.96
+P0045,Hardware,42,5205.26
+P0035,"Lawn & Garden",42,6646.51
+P0039,"Lawn & Garden",41,5133.65
+P0083,"Building Materials",41,5457.34
+P0038,Electrical,41,5650.09
+P0082,Plumbing,40,4064.73
+P0031,Hardware,40,6695.81
+P0037,Electrical,40,6424.78
+P0037,Paint,40,5907.94
+P0086,Electrical,40,6659.53
+P0024,Electrical,40,5560.76
+P0076,Electrical,40,4818.21
+P0018,Electrical,40,6569.73
+P0074,Plumbing,40,6366.19
+P0031,"Building Materials",40,5307.64
+P0046,Hardware,39,6670.33
+P0023,"Lawn & Garden",39,5211.21
+P0066,Hardware,39,3980.89
+P0016,Electrical,39,5249.63
+P0029,Paint,39,4929.77
+P0095,Plumbing,39,5312.44
+P0030,"Building Materials",39,6091.46
+P0008,Appliances,39,6186.16
+P0075,Plumbing,39,5922.23
+P0024,Appliances,39,5636.94
+P0053,Appliances,39,5985.59
+P0009,Hardware,39,6544.69

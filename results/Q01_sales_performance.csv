@@ -1,0 +1,708 @@
+product_id,category,inventory,total_units_sold,inventory_to_sales_ratio
+P0014,Plumbing,1154,14,82.43
+P0043,Appliances,1077,17,63.35
+P0016,Appliances,436,7,62.29
+P0084,"Lawn & Garden",481,8,60.13
+P0009,Electrical,353,6,58.83
+P0069,Plumbing,1581,28,56.46
+P0082,Electrical,1197,22,54.41
+P0015,Appliances,742,14,53.00
+P0094,"Building Materials",1561,30,52.03
+P0028,Hardware,986,19,51.89
+P0003,Plumbing,1134,22,51.55
+P0035,Appliances,1023,20,51.15
+P0057,"Building Materials",966,19,50.84
+P0073,Appliances,980,20,49.00
+P0017,Plumbing,1414,29,48.76
+P0028,Plumbing,1339,28,47.82
+P0040,Hardware,1175,25,47.00
+P0071,Paint,936,20,46.80
+P0068,"Lawn & Garden",1355,29,46.72
+P0021,"Building Materials",1349,29,46.52
+P0048,"Lawn & Garden",1530,33,46.36
+P0033,Paint,1109,24,46.21
+P0010,"Lawn & Garden",871,19,45.84
+P0038,"Building Materials",686,15,45.73
+P0044,"Lawn & Garden",317,7,45.29
+P0013,Paint,1215,27,45.00
+P0036,Paint,670,15,44.67
+P0075,"Building Materials",889,20,44.45
+P0076,Appliances,1178,27,43.63
+P0090,Appliances,777,18,43.17
+P0074,Appliances,1206,28,43.07
+P0015,"Building Materials",904,21,43.05
+P0018,Hardware,1883,44,42.80
+P0035,Paint,851,20,42.55
+P0039,Hardware,892,21,42.48
+P0008,Hardware,976,23,42.43
+P0097,Electrical,1018,24,42.42
+P0072,"Lawn & Garden",1177,28,42.04
+P0069,Electrical,837,20,41.85
+P0013,Plumbing,962,23,41.83
+P0005,Hardware,1422,34,41.82
+P0080,Hardware,460,11,41.82
+P0013,Hardware,1290,31,41.61
+P0006,"Building Materials",829,20,41.45
+P0029,Hardware,580,14,41.43
+P0090,Electrical,786,19,41.37
+P0005,Electrical,1936,47,41.19
+P0041,Electrical,1065,26,40.96
+P0059,Paint,737,18,40.94
+P0022,"Lawn & Garden",450,11,40.91
+P0077,"Lawn & Garden",1103,27,40.85
+P0057,Paint,1388,34,40.82
+P0079,Plumbing,806,20,40.30
+P0079,"Lawn & Garden",886,22,40.27
+P0099,Appliances,802,20,40.10
+P0036,Electrical,641,16,40.06
+P0093,Appliances,715,18,39.72
+P0053,"Building Materials",1191,30,39.70
+P0001,Appliances,1825,46,39.67
+P0025,Hardware,792,20,39.60
+P0055,Electrical,750,19,39.47
+P0027,"Building Materials",1302,33,39.45
+P0097,"Lawn & Garden",1063,27,39.37
+P0052,Appliances,1101,28,39.32
+P0048,Plumbing,706,18,39.22
+P0050,Paint,937,24,39.04
+P0063,"Lawn & Garden",1248,32,39.00
+P0096,Paint,1362,35,38.91
+P0062,Electrical,2160,56,38.57
+,Appliances,923,24,38.46
+P0016,"Lawn & Garden",1384,36,38.44
+P0100,Electrical,1805,47,38.40
+P0020,Paint,499,13,38.38
+P0077,Hardware,498,13,38.31
+P0045,Plumbing,1298,34,38.18
+P0009,Paint,1103,29,38.03
+P0058,Paint,608,16,38.00
+P0001,"Lawn & Garden",1363,36,37.86
+P0038,"Lawn & Garden",1247,33,37.79
+P0024,"Building Materials",1473,39,37.77
+P0036,Plumbing,906,24,37.75
+P0068,Electrical,1583,42,37.69
+P0024,Paint,490,13,37.69
+P0015,Plumbing,1013,27,37.52
+P0087,"Building Materials",860,23,37.39
+P0024,"Lawn & Garden",595,16,37.19
+P0009,Hardware,1449,39,37.15
+P0009,"Building Materials",1372,37,37.08
+P0067,Hardware,1149,31,37.06
+P0010,Appliances,741,20,37.05
+P0045,Hardware,1553,42,36.98
+P0045,Appliances,1622,44,36.86
+P0073,Hardware,919,25,36.76
+P0014,Paint,735,20,36.75
+P0055,Plumbing,1323,36,36.75
+P0081,Hardware,1065,29,36.72
+P0050,Electrical,881,24,36.71
+P0051,Hardware,257,7,36.71
+P0021,Appliances,660,18,36.67
+P0032,Appliances,549,15,36.60
+P0001,"Building Materials",1061,29,36.59
+P0049,"Lawn & Garden",695,19,36.58
+P0027,Paint,767,21,36.52
+P0088,Paint,833,23,36.22
+P0042,Appliances,1195,33,36.21
+P0090,"Lawn & Garden",832,23,36.17
+P0016,Electrical,1410,39,36.15
+P0099,"Building Materials",1552,43,36.09
+P0023,"Building Materials",1299,36,36.08
+P0097,"Building Materials",1514,42,36.05
+P0007,Paint,1186,33,35.94
+P0028,Paint,1040,29,35.86
+P0011,Paint,1038,29,35.79
+P0086,Hardware,1000,28,35.71
+P0092,Appliances,1135,32,35.47
+P0075,"Lawn & Garden",1309,37,35.38
+P0054,"Lawn & Garden",1025,29,35.34
+P0026,Plumbing,1025,29,35.34
+P0028,Electrical,1342,38,35.32
+P0096,Plumbing,565,16,35.31
+P0001,Plumbing,811,23,35.26
+P0052,Plumbing,633,18,35.17
+P0018,"Building Materials",1617,46,35.15
+P0085,Electrical,1651,47,35.13
+P0044,Electrical,1756,50,35.12
+P0004,"Lawn & Garden",1333,38,35.08
+P0021,Paint,1507,43,35.05
+P0003,Appliances,981,28,35.04
+P0072,Appliances,1190,34,35.00
+P0082,"Building Materials",1050,30,35.00
+P0020,"Lawn & Garden",1083,31,34.94
+P0070,Plumbing,943,27,34.93
+P0066,Plumbing,1012,29,34.90
+P0073,Paint,1186,34,34.88
+P0056,Paint,1499,43,34.86
+P0100,"Lawn & Garden",1394,40,34.85
+P0044,Paint,1602,46,34.83
+P0079,Paint,1671,48,34.81
+P0069,Hardware,1112,32,34.75
+P0030,Paint,660,19,34.74
+P0043,Paint,798,23,34.70
+P0082,Appliances,1315,38,34.61
+,Hardware,898,26,34.54
+P0076,Hardware,552,16,34.50
+P0083,"Building Materials",1409,41,34.37
+P0035,Hardware,1713,50,34.26
+P0044,Plumbing,753,22,34.23
+P0031,"Building Materials",1367,40,34.18
+P0025,"Building Materials",986,29,34.00
+,Plumbing,1801,53,33.98
+P0073,"Lawn & Garden",1561,46,33.93
+P0005,Appliances,644,19,33.89
+P0050,Appliances,1281,38,33.71
+P0082,Plumbing,1347,40,33.68
+P0073,"Building Materials",1710,51,33.53
+P0075,Hardware,1005,30,33.50
+P0076,Plumbing,1172,35,33.49
+P0082,Paint,770,23,33.48
+P0001,Paint,904,27,33.48
+P0007,Plumbing,837,25,33.48
+P0078,Electrical,1004,30,33.47
+P0094,Hardware,1636,49,33.39
+P0020,Electrical,1033,31,33.32
+P0004,Plumbing,1499,45,33.31
+P0037,Appliances,1530,46,33.26
+P0071,Plumbing,1430,43,33.26
+P0072,Paint,1130,34,33.24
+P0093,"Lawn & Garden",864,26,33.23
+P0074,Plumbing,1328,40,33.20
+P0069,Paint,1691,51,33.16
+P0070,Electrical,2155,65,33.15
+P0038,Plumbing,1293,39,33.15
+P0002,Appliances,696,21,33.14
+P0041,Plumbing,794,24,33.08
+P0083,Plumbing,496,15,33.07
+P0029,"Lawn & Garden",1057,32,33.03
+P0094,Plumbing,429,13,33.00
+P0057,"Lawn & Garden",758,23,32.96
+P0070,Appliances,1085,33,32.88
+P0028,"Lawn & Garden",1116,34,32.82
+P0064,Appliances,1378,42,32.81
+P0012,"Lawn & Garden",525,16,32.81
+P0085,"Building Materials",918,28,32.79
+P0079,Hardware,1245,38,32.76
+P0054,Paint,817,25,32.68
+P0006,Plumbing,1403,43,32.63
+P0042,Electrical,1041,32,32.53
+P0031,Electrical,1301,40,32.53
+P0059,Hardware,878,27,32.52
+P0042,Paint,1040,32,32.50
+P0089,Plumbing,910,28,32.50
+P0007,Appliances,617,19,32.47
+P0089,"Lawn & Garden",1067,33,32.33
+P0023,Paint,1387,43,32.26
+P0048,Paint,613,19,32.26
+P0056,Appliances,1161,36,32.25
+P0099,Plumbing,774,24,32.25
+P0039,"Building Materials",935,29,32.24
+P0030,Electrical,611,19,32.16
+P0084,Hardware,1153,36,32.03
+P0067,Plumbing,1472,46,32.00
+P0065,Electrical,2271,71,31.99
+P0088,Appliances,1215,38,31.97
+P0061,Plumbing,991,31,31.97
+P0056,"Lawn & Garden",1116,35,31.89
+P0061,Paint,1116,35,31.89
+P0010,"Building Materials",1208,38,31.79
+P0043,"Lawn & Garden",1494,47,31.79
+P0049,Paint,1081,34,31.79
+P0035,"Lawn & Garden",1334,42,31.76
+P0034,Appliances,381,12,31.75
+P0002,Electrical,730,23,31.74
+P0041,Hardware,1333,42,31.74
+P0081,"Building Materials",1171,37,31.65
+P0063,"Building Materials",885,28,31.61
+P0069,"Building Materials",755,24,31.46
+P0002,"Building Materials",975,31,31.45
+P0061,"Lawn & Garden",1698,54,31.44
+P0060,Paint,880,28,31.43
+P0053,Hardware,1599,51,31.35
+P0046,Plumbing,1127,36,31.31
+P0031,Plumbing,1252,40,31.30
+P0062,"Lawn & Garden",748,24,31.17
+P0060,"Building Materials",903,29,31.14
+P0075,Appliances,933,30,31.10
+P0096,"Lawn & Garden",1617,52,31.10
+P0065,"Lawn & Garden",902,29,31.10
+P0088,"Building Materials",991,32,30.97
+P0008,Plumbing,1514,49,30.90
+P0017,"Building Materials",1296,42,30.86
+P0022,"Building Materials",1356,44,30.82
+P0032,Paint,986,32,30.81
+P0087,"Lawn & Garden",860,28,30.71
+P0014,"Lawn & Garden",1657,54,30.69
+P0044,Appliances,767,25,30.68
+P0088,Hardware,859,28,30.68
+P0094,Paint,1073,35,30.66
+P0041,Appliances,950,31,30.65
+P0029,"Building Materials",1839,60,30.65
+P0012,Electrical,613,20,30.65
+P0060,Hardware,1439,47,30.62
+P0068,Paint,888,29,30.62
+P0004,Electrical,1316,43,30.60
+P0061,Appliances,1159,38,30.50
+P0067,Electrical,975,32,30.47
+P0085,"Lawn & Garden",457,15,30.47
+P0098,Hardware,790,26,30.38
+P0059,"Lawn & Garden",820,27,30.37
+P0095,Appliances,1336,44,30.36
+P0020,Appliances,546,18,30.33
+P0050,"Building Materials",1180,39,30.26
+P0099,Paint,1148,38,30.21
+P0018,Electrical,1207,40,30.18
+P0015,Paint,1146,38,30.16
+P0081,"Lawn & Garden",542,18,30.11
+P0004,Hardware,1768,59,29.97
+P0061,"Building Materials",1498,50,29.96
+P0034,Hardware,749,25,29.96
+P0016,Plumbing,1018,34,29.94
+P0022,Plumbing,1616,54,29.93
+P0033,"Lawn & Garden",1077,36,29.92
+P0083,"Lawn & Garden",987,33,29.91
+P0090,Paint,717,24,29.88
+,"Lawn & Garden",926,31,29.87
+P0095,Paint,1103,37,29.81
+P0091,Electrical,1669,56,29.80
+P0092,Hardware,742,25,29.68
+P0088,"Lawn & Garden",1186,40,29.65
+P0081,Paint,858,29,29.59
+P0008,Appliances,1152,39,29.54
+P0045,Paint,1417,48,29.52
+P0056,Plumbing,738,25,29.52
+P0024,Plumbing,1356,46,29.48
+P0089,Hardware,1739,59,29.47
+P0014,Appliances,1029,35,29.40
+P0047,"Building Materials",735,25,29.40
+P0011,Appliances,1410,48,29.38
+P0040,Appliances,791,27,29.30
+P0013,Appliances,1230,42,29.29
+P0024,Electrical,1169,40,29.23
+P0076,Paint,1023,35,29.23
+P0062,Hardware,467,16,29.19
+P0078,Paint,963,33,29.18
+P0015,Electrical,1341,46,29.15
+P0014,Hardware,1020,35,29.14
+P0063,Hardware,1107,38,29.13
+P0096,Appliances,902,31,29.10
+P0048,"Building Materials",1363,47,29.00
+P0051,"Building Materials",638,22,29.00
+P0009,Plumbing,725,25,29.00
+P0084,Appliances,811,28,28.96
+P0012,Appliances,782,27,28.96
+P0026,"Lawn & Garden",724,25,28.96
+P0011,Hardware,955,33,28.94
+P0074,"Lawn & Garden",752,26,28.92
+P0008,Electrical,1387,48,28.90
+P0079,Electrical,578,20,28.90
+P0049,"Building Materials",1271,44,28.89
+P0077,Plumbing,1241,43,28.86
+P0060,"Lawn & Garden",1615,56,28.84
+P0062,Paint,1124,39,28.82
+P0065,Appliances,1440,50,28.80
+P0040,"Lawn & Garden",1007,35,28.77
+P0080,Electrical,1348,47,28.68
+P0048,Hardware,1348,47,28.68
+P0029,Plumbing,1262,44,28.68
+P0055,Appliances,1547,54,28.65
+P0027,Hardware,1404,49,28.65
+P0019,Plumbing,1776,62,28.65
+P0002,Paint,1543,54,28.57
+P0098,Paint,657,23,28.57
+P0035,"Building Materials",1456,51,28.55
+P0028,"Building Materials",1085,38,28.55
+P0043,Hardware,1513,53,28.55
+P0084,Electrical,856,30,28.53
+P0012,Paint,1255,44,28.52
+P0053,"Lawn & Garden",767,27,28.41
+P0040,Paint,1221,43,28.40
+P0064,"Building Materials",1020,36,28.33
+P0071,"Building Materials",735,26,28.27
+P0026,"Building Materials",1608,57,28.21
+P0054,Plumbing,1297,46,28.20
+P0044,"building materials",874,31,28.19
+P0078,"Building Materials",789,28,28.18
+P0067,"Lawn & Garden",1465,52,28.17
+P0021,Hardware,1577,56,28.16
+P0087,Paint,1323,47,28.15
+P0008,"Building Materials",534,19,28.11
+P0037,Hardware,815,29,28.10
+P0082,Hardware,1011,36,28.08
+P0054,Appliances,1458,52,28.04
+P0076,"Building Materials",1458,52,28.04
+P0077,Appliances,1176,42,28.00
+P0095,"Building Materials",1343,48,27.98
+P0076,Electrical,1119,40,27.98
+P0035,Electrical,1286,46,27.96
+P0037,"Building Materials",892,32,27.88
+P0014,Electrical,1171,42,27.88
+P0033,Hardware,1394,50,27.88
+P0061,Hardware,1838,66,27.85
+P0018,Paint,807,29,27.83
+P0049,Electrical,862,31,27.81
+P0074,Paint,1193,43,27.74
+P0064,Plumbing,1026,37,27.73
+P0021,Electrical,1386,50,27.72
+P0007,"Lawn & Garden",997,36,27.69
+P0020,"Building Materials",1161,42,27.64
+P0080,"Building Materials",884,32,27.63
+P0058,Hardware,1270,46,27.61
+P0082,"Lawn & Garden",1129,41,27.54
+P0034,Electrical,1457,53,27.49
+P0097,Appliances,1208,44,27.45
+P0059,"Building Materials",1234,45,27.42
+P0085,Plumbing,1014,37,27.41
+P0081,Plumbing,1425,52,27.40
+P0022,Appliances,955,35,27.29
+P0017,Hardware,1583,58,27.29
+P0083,Appliances,326,12,27.17
+P0025,Electrical,978,36,27.17
+P0026,Electrical,1467,54,27.17
+P0065,Hardware,326,12,27.17
+P0066,Appliances,1331,49,27.16
+P0017,Appliances,1032,38,27.16
+P0086,Electrical,1085,40,27.13
+P0091,"Building Materials",1383,51,27.12
+P0038,Paint,786,29,27.10
+P0099,"Lawn & Garden",1028,38,27.05
+P0057,Plumbing,1001,37,27.05
+P0093,Plumbing,999,37,27.00
+P0077,"Building Materials",971,36,26.97
+P0068,Hardware,970,36,26.94
+P0074,"Building Materials",1426,53,26.91
+P0072,"Building Materials",780,29,26.90
+P0042,Plumbing,1345,50,26.90
+P0058,"Lawn & Garden",617,23,26.83
+P0046,"Lawn & Garden",456,17,26.82
+P0003,Hardware,1072,40,26.80
+P0025,"Lawn & Garden",1178,44,26.77
+P0039,Electrical,1231,46,26.76
+P0054,"Building Materials",1471,55,26.75
+P0012,Plumbing,1498,56,26.75
+P0049,Hardware,1016,38,26.74
+P0085,Appliances,799,30,26.63
+P0052,Electrical,985,37,26.62
+P0039,Plumbing,1730,65,26.62
+P0025,Paint,1303,49,26.59
+P0049,Plumbing,637,24,26.54
+P0086,"Lawn & Garden",742,28,26.50
+P0077,Paint,502,19,26.42
+P0023,Electrical,896,34,26.35
+P0071,"Lawn & Garden",1133,43,26.35
+P0081,Appliances,948,36,26.33
+P0092,Plumbing,816,31,26.32
+P0036,"Lawn & Garden",1368,52,26.31
+P0037,Paint,1052,40,26.30
+P0086,"Building Materials",998,38,26.26
+P0041,"Lawn & Garden",1469,56,26.23
+P0010,Hardware,865,33,26.21
+P0027,"Lawn & Garden",836,32,26.13
+P0078,"Lawn & Garden",836,32,26.13
+P0016,"Building Materials",1776,68,26.12
+P0070,"Building Materials",470,18,26.11
+P0066,Hardware,1018,39,26.10
+P0067,Paint,1043,40,26.08
+P0018,Plumbing,1955,75,26.07
+P0032,"Lawn & Garden",834,32,26.06
+,Electrical,1484,57,26.04
+P0019,Hardware,859,33,26.03
+P0042,Hardware,1040,40,26.00
+P0083,Paint,777,30,25.90
+P0020,Plumbing,518,20,25.90
+P0089,"Building Materials",1964,76,25.84
+P0079,Appliances,1289,50,25.78
+P0077,Electrical,644,25,25.76
+P0074,Hardware,1388,54,25.70
+P0097,Plumbing,1587,62,25.60
+P0014,"Building Materials",1561,61,25.59
+P0031,Appliances,358,14,25.57
+P0053,Appliances,997,39,25.56
+P0006,Electrical,639,25,25.56
+P0099,Hardware,1278,50,25.56
+P0055,"Building Materials",971,38,25.55
+P0037,"Lawn & Garden",1224,48,25.50
+P0024,Hardware,968,38,25.47
+P0091,paint,967,38,25.45
+P0016,Hardware,1068,42,25.43
+P0059,Electrical,1778,70,25.40
+P0022,Electrical,989,39,25.36
+P0051,Plumbing,1165,46,25.33
+P0010,Plumbing,632,25,25.28
+P0056,"Building Materials",1137,45,25.27
+P0034,Plumbing,1086,43,25.26
+P0043,Plumbing,757,30,25.23
+P0048,Electrical,1360,54,25.19
+P0097,Hardware,1988,79,25.16
+P0009,"Lawn & Garden",427,17,25.12
+P0096,"Building Materials",1155,46,25.11
+P0023,"Lawn & Garden",979,39,25.10
+P0066,Paint,602,24,25.08
+P0058,Appliances,777,31,25.06
+P0018,"Lawn & Garden",923,37,24.95
+P0031,"Lawn & Garden",821,33,24.88
+P0093,Paint,1318,53,24.87
+P0056,Electrical,1414,57,24.81
+P0097,Paint,1091,44,24.80
+P0046,Paint,471,19,24.79
+P0004,Appliances,917,37,24.78
+P0029,Electrical,1214,49,24.78
+P0039,Appliances,1759,71,24.77
+P0086,Paint,644,26,24.77
+P0074,Electrical,619,25,24.76
+P0012,Hardware,1258,51,24.67
+P0007,Electrical,714,29,24.62
+P0030,Hardware,664,27,24.59
+P0091,"Lawn & Garden",1377,56,24.59
+P0093,Hardware,639,26,24.58
+P0045,"Building Materials",614,25,24.56
+P0028,Appliances,933,38,24.55
+P0006,Paint,1743,71,24.55
+P0034,"Lawn & Garden",637,26,24.50
+P0039,Paint,881,36,24.47
+P0095,"Lawn & Garden",1269,52,24.40
+P0019,"Lawn & Garden",683,28,24.39
+P0046,Appliances,1487,61,24.38
+P0078,Hardware,1170,48,24.38
+P0002,"Lawn & Garden",1046,43,24.33
+P0078,Appliances,486,20,24.30
+P0003,"Lawn & Garden",996,41,24.29
+P0058,"Building Materials",1040,43,24.19
+P0015,Hardware,1379,57,24.19
+P0065,"Building Materials",483,20,24.15
+P0063,Paint,1280,53,24.15
+P0085,Paint,1351,56,24.13
+P0087,Plumbing,747,31,24.10
+P0062,Plumbing,1011,42,24.07
+P0093,Electrical,866,36,24.06
+P0100,"Building Materials",1347,56,24.05
+P0030,"Building Materials",938,39,24.05
+P0081,Electrical,1393,58,24.02
+P0026,Hardware,1078,45,23.96
+P0068,"Building Materials",1293,54,23.94
+P0019,"Building Materials",1197,50,23.94
+P0092,Paint,718,30,23.93
+P0017,Electrical,813,34,23.91
+P0011,"Lawn & Garden",979,41,23.88
+P0054,Electrical,620,26,23.85
+P0073,Electrical,596,25,23.84
+P0037,Electrical,953,40,23.83
+P0098,Plumbing,785,33,23.79
+P0062,"Building Materials",947,40,23.68
+P0069,Appliances,1041,44,23.66
+P0083,Hardware,942,40,23.55
+P0035,Plumbing,752,32,23.50
+P0096,Hardware,1030,44,23.41
+P0059,Appliances,1051,45,23.36
+P0032,Hardware,841,36,23.36
+P0022,Paint,1004,43,23.35
+P0071,Appliances,1073,46,23.33
+P0072,Hardware,1280,55,23.27
+P0009,Appliances,1675,72,23.26
+P0093,"Building Materials",1139,49,23.24
+P0057,Hardware,581,25,23.24
+P0100,Plumbing,1183,51,23.20
+P0003,Electrical,487,21,23.19
+P0006,"Lawn & Garden",1298,56,23.18
+P0075,Plumbing,903,39,23.15
+P0027,Plumbing,602,26,23.15
+P0013,"Lawn & Garden",810,35,23.14
+P0062,Appliances,876,38,23.05
+P0071,Hardware,1037,45,23.04
+P0030,Plumbing,506,22,23.00
+P0023,Hardware,643,28,22.96
+P0051,Paint,711,31,22.94
+P0099,Electrical,777,34,22.85
+P0091,Appliances,571,25,22.84
+P0084,Plumbing,434,19,22.84
+P0004,Paint,1096,48,22.83
+P0048,Appliances,890,39,22.82
+P0029,Paint,890,39,22.82
+P0070,Paint,684,30,22.80
+P0017,"Lawn & Garden",820,36,22.78
+P0055,"Lawn & Garden",1389,61,22.77
+P0098,Appliances,1092,48,22.75
+P0053,Paint,727,32,22.72
+P0031,Paint,1203,53,22.70
+P0070,Hardware,817,36,22.69
+P0064,Electrical,974,43,22.65
+P0031,Hardware,906,40,22.65
+P0051,Appliances,859,38,22.61
+P0005,"Lawn & Garden",746,33,22.61
+P0052,"Building Materials",1895,84,22.56
+P0027,Electrical,857,38,22.55
+P0045,Electrical,1578,70,22.54
+P0095,Plumbing,878,39,22.51
+P0056,Hardware,720,32,22.50
+P0026,Appliances,1122,50,22.44
+P0060,Electrical,404,18,22.44
+P0069,"Lawn & Garden",875,39,22.44
+P0043,Electrical,1256,56,22.43
+P0057,Electrical,1949,87,22.40
+P0011,Electrical,1142,51,22.39
+P0088,Plumbing,1250,56,22.32
+,"Building Materials",1204,54,22.30
+P0098,"Building Materials",668,30,22.27
+P0051,Electrical,667,30,22.23
+P0047,Paint,1066,48,22.21
+P0052,"Lawn & Garden",1128,51,22.12
+P0076,"Lawn & Garden",793,36,22.03
+P0080,Appliances,1562,71,22.00
+P0050,"Lawn & Garden",880,40,22.00
+P0075,Paint,702,32,21.94
+P0052,Hardware,1509,69,21.87
+P0095,Electrical,962,44,21.86
+P0044,Hardware,1311,60,21.85
+P0004,"Building Materials",1046,48,21.79
+P0072,Plumbing,1002,46,21.78
+P0018,Appliances,1437,66,21.77
+P0043,"Building Materials",1021,47,21.72
+P0080,Paint,972,45,21.60
+P0022,Hardware,1079,50,21.58
+P0029,Appliances,2006,93,21.57
+P0086,Appliances,539,25,21.56
+P0032,"Building Materials",1552,72,21.56
+P0047,Electrical,1011,47,21.51
+P0064,Paint,753,35,21.51
+P0001,Electrical,430,20,21.50
+P0006,Appliances,1135,53,21.42
+P0071,Electrical,514,24,21.42
+P0063,Appliances,1367,64,21.36
+P0091,Plumbing,662,31,21.35
+P0100,Paint,960,45,21.33
+P0008,Paint,1065,50,21.30
+P0090,Plumbing,915,43,21.28
+P0011,Plumbing,765,36,21.25
+P0030,Appliances,1062,50,21.24
+P0023,Appliances,552,26,21.23
+P0079,"Building Materials",636,30,21.20
+P0098,Electrical,1013,48,21.10
+P0046,Electrical,1034,49,21.10
+P0065,Paint,1602,76,21.08
+P0089,Appliances,1031,49,21.04
+P0042,"Building Materials",462,22,21.00
+P0007,"Building Materials",1149,55,20.89
+P0002,Hardware,1170,56,20.89
+P0058,Plumbing,961,46,20.89
+P0021,Plumbing,646,31,20.84
+P0092,Electrical,1082,52,20.81
+P0019,Electrical,1040,50,20.80
+P0037,Plumbing,1268,61,20.79
+P0100,Hardware,1599,77,20.77
+P0033,Appliances,436,21,20.76
+P0019,Appliances,932,45,20.71
+P0067,"Building Materials",640,31,20.65
+P0036,Appliances,908,44,20.64
+,Paint,1218,59,20.64
+P0015,"Lawn & Garden",1237,60,20.62
+P0094,Appliances,618,30,20.60
+P0032,Electrical,678,33,20.55
+P0060,Plumbing,964,47,20.51
+P0041,Paint,981,48,20.44
+P0094,"Lawn & Garden",937,46,20.37
+P0041,"Building Materials",936,46,20.35
+P0091,Hardware,773,38,20.34
+P0089,Electrical,305,15,20.33
+P0070,"Lawn & Garden",732,36,20.33
+P0066,"Lawn & Garden",933,46,20.28
+P0034,Paint,1338,66,20.27
+P0006,Hardware,830,41,20.24
+P0007,Hardware,1335,66,20.23
+P0025,Appliances,687,34,20.21
+P0021,"Lawn & Garden",726,36,20.17
+P0032,Plumbing,1003,50,20.06
+P0005,Paint,1081,54,20.02
+P0034,"Building Materials",940,47,20.00
+P0065,Plumbing,838,42,19.95
+P0073,Plumbing,1316,66,19.94
+P0049,Appliances,876,44,19.91
+P0055,Paint,916,46,19.91
+P0064,Hardware,1174,59,19.90
+P0010,Paint,915,46,19.89
+P0090,Hardware,695,35,19.86
+P0068,Appliances,829,42,19.74
+P0084,"Building Materials",691,35,19.74
+P0011,"Building Materials",769,39,19.72
+P0087,Appliances,807,41,19.68
+P0050,Plumbing,1810,92,19.67
+P0046,"Building Materials",804,41,19.61
+P0008,"Lawn & Garden",764,39,19.59
+P0059,Plumbing,842,43,19.58
+P0054,Hardware,818,42,19.48
+P0038,Appliances,1362,70,19.46
+P0040,Electrical,1241,64,19.39
+P0092,"Lawn & Garden",1104,57,19.37
+P0040,Plumbing,484,25,19.36
+P0042,"Lawn & Garden",947,49,19.33
+P0098,"Lawn & Garden",1198,62,19.32
+P0050,Hardware,733,38,19.29
+P0066,Electrical,636,33,19.27
+P0012,"Building Materials",520,27,19.26
+P0047,Hardware,1528,80,19.10
+P0064,"Lawn & Garden",1136,60,18.93
+P0033,Electrical,923,49,18.84
+P0017,Paint,1073,57,18.82
+P0100,Appliances,804,43,18.70
+P0038,Hardware,822,44,18.68
+P0084,Paint,856,46,18.61
+P0083,Electrical,927,50,18.54
+P0001,Hardware,853,46,18.54
+P0005,"Building Materials",591,32,18.47
+P0047,Appliances,903,49,18.43
+P0002,Plumbing,770,42,18.33
+P0038,Electrical,749,41,18.27
+P0067,Appliances,689,38,18.13
+P0027,Appliances,834,46,18.13
+P0072,Electrical,723,40,18.08
+P0020,Hardware,777,43,18.07
+P0047,Plumbing,810,45,18.00
+P0003,Paint,1043,58,17.98
+P0051,"Lawn & Garden",856,48,17.83
+P0033,Plumbing,780,44,17.73
+P0085,Hardware,969,55,17.62
+P0095,Hardware,1250,71,17.61
+P0036,"Building Materials",859,49,17.53
+P0092,"Building Materials",647,37,17.49
+P0080,"Lawn & Garden",944,54,17.48
+P0033,"Building Materials",454,26,17.46
+P0078,Plumbing,471,27,17.44
+P0080,Plumbing,785,46,17.07
+P0025,Plumbing,937,55,17.04
+P0046,Hardware,664,39,17.03
+P0013,"Building Materials",560,33,16.97
+P0010,Electrical,572,34,16.82
+P0063,Electrical,1110,66,16.82
+P0036,Hardware,1294,77,16.81
+P0086,Plumbing,588,35,16.80
+P0040,"Building Materials",403,24,16.79
+P0089,Paint,1165,70,16.64
+P0087,Electrical,964,58,16.62
+P0088,Electrical,930,56,16.61
+P0026,Paint,548,33,16.61
+P0096,Electrical,755,46,16.41
+P0052,Paint,951,58,16.40
+P0016,Paint,1229,75,16.39
+P0013,Electrical,747,46,16.24
+P0094,Electrical,974,61,15.97
+P0055,Hardware,955,60,15.92
+P0024,Appliances,608,39,15.59
+P0057,Appliances,1023,66,15.50
+P0045,"Lawn & Garden",797,52,15.33
+P0053,Electrical,1324,88,15.05
+P0003,"Building Materials",238,16,14.88
+P0068,Plumbing,1218,82,14.85
+P0058,Electrical,177,12,14.75
+P0019,Paint,775,54,14.35
+P0061,Electrical,450,32,14.06
+P0075,Electrical,742,53,14.00
+P0087,Hardware,645,47,13.72
+P0066,"Building Materials",753,56,13.45
+P0047,"lawn & garden",558,42,13.29
+P0039,"Lawn & Garden",544,41,13.27
+P0060,Appliances,206,16,12.88
+P0005,Plumbing,526,41,12.83
+P0023,Plumbing,701,55,12.75
+P0090,"Building Materials",308,25,12.32
+P0053,Plumbing,269,22,12.23
+P0063,Plumbing,411,36,11.42
+P0030,"Lawn & Garden",439,44,9.98
